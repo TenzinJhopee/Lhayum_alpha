@@ -1,2 +1,2 @@
 # Bhopa_alpha
-Tibetan learning with A.I tutor - teach you faster and easier
+We used open source data as TibetanQA. 
