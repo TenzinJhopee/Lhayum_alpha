@@ -1,0 +1,22 @@
+[project]
+name = "bhopa-alpha"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "openpyxl",
+    "sentence-transformers", 
+    "huggingface_hub",
+    "transformers",
+    "tokenizers",
+    "chromadb",
+    "streamlit",
+    "requests",
+    "tqdm",
+    "torch",
+    "ipykernel",
+]
